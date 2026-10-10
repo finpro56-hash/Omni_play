@@ -1,0 +1,6 @@
+{
+  "name": "OmniPlay - Universal Local Media Player",
+  "description": "High-performance, zero-upload local video and audio player with support for all video and audio formats, subtitles, audio equalizer, and cinema dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
